@@ -13,7 +13,7 @@ Assumptions: Variables should be approximately normally distributed, and the rel
 Spearman's correlation assesses the strength and direction of a monotonic (non-linear) relationship between two variables. It is based on the ranks of data points rather than the raw data.
 Assumptions: Variables should be ordinal, interval, or ratio scale; non-linear relationships are acceptable.
 
-** Kendall's Tau (Kendall's τ)**:
+**Kendall's Tau (Kendall's τ)**:
 
 Kendall's Tau is another rank-based correlation coefficient used to measure the strength and direction of association between two variables. It is often used when data are not normally distributed.
 Assumptions: Like Spearman's, Kendall's Tau is suitable for ordinal, interval, or ratio data.
