@@ -33,3 +33,11 @@ Assumptions: Both variables should be binary.
 Cramer's V is used to measure the strength of association between two nominal variables. It is an extension of the phi coefficient for variables with more than two categories.
 Assumptions: Both variables should be nominal.
 
+**Polychoric Correlation**:
+
+Polychoric correlation is used to assess the association between two ordinal variables by estimating a correlation coefficient that assumes an underlying bivariate normal distribution.
+Assumptions: Both variables should be ordinal.
+
+
+**Partial correlation**:
+Partial correlation is a statistical technique used to measure the strength and direction of the linear relationship between two variables while controlling for the influence of one or more additional variables, often referred to as "covariates" or "control variables." In other words, partial correlation assesses the association between two variables while holding the effects of other variables constant.
