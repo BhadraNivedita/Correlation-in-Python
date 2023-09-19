@@ -41,3 +41,7 @@ Assumptions: Both variables should be ordinal.
 
 **Partial correlation**:
 Partial correlation is a statistical technique used to measure the strength and direction of the linear relationship between two variables while controlling for the influence of one or more additional variables, often referred to as "covariates" or "control variables." In other words, partial correlation assesses the association between two variables while holding the effects of other variables constant.
+
+
+**Tetrachoric correlation**:
+The tetrachoric correlation coefficient is a statistical measure used to assess the strength and direction of the association between two binary or dichotomous variables. Unlike traditional correlation coefficients like Pearson's correlation, which are used for continuous variables, the tetrachoric correlation is specifically designed for variables that take on only two values (typically coded as 0 and 1). It is particularly useful in situations where researchers want to analyze the relationship between two categorical variables with binary outcomes.
