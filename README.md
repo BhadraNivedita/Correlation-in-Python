@@ -18,4 +18,9 @@ Assumptions: Variables should be ordinal, interval, or ratio scale; non-linear r
 Kendall's Tau is another rank-based correlation coefficient used to measure the strength and direction of association between two variables. It is often used when data are not normally distributed.
 Assumptions: Like Spearman's, Kendall's Tau is suitable for ordinal, interval, or ratio data.
 
+**Point-Biserial Correlation**:
+
+Point-biserial correlation is used when one variable is binary (e.g., yes/no) and the other is continuous. It quantifies the strength and direction of the association between the two variables.
+Assumptions: The continuous variable should be approximately normally distributed.
+
 
