@@ -28,4 +28,8 @@ Assumptions: The continuous variable should be approximately normally distribute
 The phi coefficient measures the association between two binary variables (usually coded as 0 and 1). It is similar to Pearson's correlation but is specific to binary data.
 Assumptions: Both variables should be binary.
 
+**Cramer's V**:
+
+Cramer's V is used to measure the strength of association between two nominal variables. It is an extension of the phi coefficient for variables with more than two categories.
+Assumptions: Both variables should be nominal.
 
