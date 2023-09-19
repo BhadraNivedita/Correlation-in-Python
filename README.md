@@ -23,4 +23,9 @@ Assumptions: Like Spearman's, Kendall's Tau is suitable for ordinal, interval, o
 Point-biserial correlation is used when one variable is binary (e.g., yes/no) and the other is continuous. It quantifies the strength and direction of the association between the two variables.
 Assumptions: The continuous variable should be approximately normally distributed.
 
+**Phi Coefficient (ϕ)**:
+
+The phi coefficient measures the association between two binary variables (usually coded as 0 and 1). It is similar to Pearson's correlation but is specific to binary data.
+Assumptions: Both variables should be binary.
+
 
